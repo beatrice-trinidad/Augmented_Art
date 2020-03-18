@@ -30,6 +30,8 @@ namespace Kino
     public class AnalogGlitch : MonoBehaviour
     {
         #region Public Properties
+       
+        [SerializeField] GameObject intrObj;
 
         // Scan line jitter
 
@@ -66,10 +68,19 @@ namespace Kino
         [SerializeField, Range(0, 1)]
         float _colorDrift = 0;
 
-        public float colorDrift {
+        public float colorDrift
+        {
             get { return _colorDrift; }
             set { _colorDrift = value; }
         }
+
+        
+
+        //public float colorDrift
+        //{
+        //    get { return _colorDrift; }
+        //    set { _colorDrift = intrObj.transform.rotation; }
+        //}
 
         #endregion
 
