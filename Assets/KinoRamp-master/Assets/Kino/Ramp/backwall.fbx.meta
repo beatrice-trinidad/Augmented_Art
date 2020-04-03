@@ -1,0 +1,2040 @@
+fileFormatVersion: 2
+guid: 716a8f72bb749452396a1f5e30bd49a1
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat
+    second: {fileID: 2100000, guid: 5ae58912a08cc4926a1fdbcc8b6e047d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.001
+    second: {fileID: 2100000, guid: 9bd3257d0ef74491b88eb6b503ee3fa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.002
+    second: {fileID: 2100000, guid: 0aa7f0682473d415d87122d1f11ebbd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.003
+    second: {fileID: 2100000, guid: 24076bb7c7f7f4a658e492cdfb8cf34f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.004
+    second: {fileID: 2100000, guid: 580be2646a84f43efb1a116db1101857, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.005
+    second: {fileID: 2100000, guid: 406238a9117384e8f8a7ffb798858118, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.006
+    second: {fileID: 2100000, guid: 67b21fb5dcb8043d8bbe08a2565e5eef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.007
+    second: {fileID: 2100000, guid: de0b12d20a7c447fa829b72f9cd3751f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.008
+    second: {fileID: 2100000, guid: bc20a990a0e8c44ac8cdfea0d4d54ad1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.009
+    second: {fileID: 2100000, guid: 70d8582b0928f402683b7b24e87e0c95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.010
+    second: {fileID: 2100000, guid: 70dd94ecc2a424deca15ce3da6eae520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.011
+    second: {fileID: 2100000, guid: 78cf85a37920643c4888be469ec9e393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.012
+    second: {fileID: 2100000, guid: 980b5782985ad4b3cb05bb9690109dc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.013
+    second: {fileID: 2100000, guid: 58ec56d31c3e644c294836e2e805086f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.014
+    second: {fileID: 2100000, guid: 24fc9256245c6435d8c734b04854aec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.015
+    second: {fileID: 2100000, guid: bb997be1ef9c246ef844649b267b66eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.016
+    second: {fileID: 2100000, guid: b2cce6c62c84c476fae9d2b85a9c6b1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.017
+    second: {fileID: 2100000, guid: 92bec270b4b4b4da28440f968509816b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.018
+    second: {fileID: 2100000, guid: 3fe7498784d86447887bc91c9394631b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.019
+    second: {fileID: 2100000, guid: 7bb9bb3087fa8475c897eb239e75470d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.020
+    second: {fileID: 2100000, guid: 5a879318ff16b4601a559e28746f1445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.021
+    second: {fileID: 2100000, guid: b1ca41f931a9c4c81a38ee9579fcf605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.022
+    second: {fileID: 2100000, guid: 21f15a2e24c144ffdb218c19a38158cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.023
+    second: {fileID: 2100000, guid: 420b4ead2b097419e946b0764f3b6dc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.024
+    second: {fileID: 2100000, guid: c3f40ea6cdfa14ada9b4299d00e86cfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.025
+    second: {fileID: 2100000, guid: 2d5308f3eeeb74bd0a5f5ca37ae35b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.026
+    second: {fileID: 2100000, guid: 5e4888a4ef55c4dea9b3df1983c55ce8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.027
+    second: {fileID: 2100000, guid: 0ef5122df27014929b4b33f886160eac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.028
+    second: {fileID: 2100000, guid: ae9fa8995d507440fbc2d2c8c63e217b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.029
+    second: {fileID: 2100000, guid: 4f9c0d6c7ea004f76a5a80b9232246ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.030
+    second: {fileID: 2100000, guid: b2125902740544df3b947ccc3c6bac5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.031
+    second: {fileID: 2100000, guid: ea452686ecb16401399313dc34b7a2d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.032
+    second: {fileID: 2100000, guid: 057f959c2368640b8859b8bb213c4edf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.033
+    second: {fileID: 2100000, guid: 123493e1d35cc417fbadda3f087220e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.034
+    second: {fileID: 2100000, guid: bddb21b7043f741ac84b6823441a82b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.035
+    second: {fileID: 2100000, guid: 3f75778bc5e444d0fbe569869f34a63c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.036
+    second: {fileID: 2100000, guid: 9005402f33135448593fafd0efc00086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.037
+    second: {fileID: 2100000, guid: a08ec7167c81a47f496e21fa6e9674ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.038
+    second: {fileID: 2100000, guid: 5012b0ce2750a42baba39147205d865a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.039
+    second: {fileID: 2100000, guid: ea588aa5baec04d4bb5fecb178753da6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.040
+    second: {fileID: 2100000, guid: 1bb81d013c68244c5b447736507ee5bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.041
+    second: {fileID: 2100000, guid: f8eaaf390531044478ac2c1e2b44ef6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.042
+    second: {fileID: 2100000, guid: 29c9c93e06a594dcaa7388165c0cd1fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.043
+    second: {fileID: 2100000, guid: 8edecc6373a394352aeea20f3422fa74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.044
+    second: {fileID: 2100000, guid: ff29730c20a01476c9aa723c959d6793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.045
+    second: {fileID: 2100000, guid: 2a8e52b3241d94cef924cfd137fc0434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.046
+    second: {fileID: 2100000, guid: 8d35e8aa139bf44ae952cec9f2e21abf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.047
+    second: {fileID: 2100000, guid: e9502e94464fe4d259a0bf3a64d1b9b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.048
+    second: {fileID: 2100000, guid: bcbecc645d63f49df98b4d2e7ac8aa67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.049
+    second: {fileID: 2100000, guid: 5d6c98330d62a417a81cf06d255b4656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.050
+    second: {fileID: 2100000, guid: 8125953893bda45488a15b52115b4948, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.051
+    second: {fileID: 2100000, guid: fcde626abe0744a0f975f53be4a0d020, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.052
+    second: {fileID: 2100000, guid: f12a380215a8f479c80242570d753619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.053
+    second: {fileID: 2100000, guid: a507833c37fc24afb982bff091e7bcd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.054
+    second: {fileID: 2100000, guid: 9ea59c348626f4ecf880594891ca5d97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.055
+    second: {fileID: 2100000, guid: 5a8d4bc7b8017488c80de23f0c8eb815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.056
+    second: {fileID: 2100000, guid: e92edb1b9e50342179f69e986ff67cec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.057
+    second: {fileID: 2100000, guid: d2815be2a073848a1beb1e71dd7e6aa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.058
+    second: {fileID: 2100000, guid: 5ab383e1b8a9c41dd80ea296b0964c57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.059
+    second: {fileID: 2100000, guid: 554e8ec1551184dc8b4545d0de5bf43f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.060
+    second: {fileID: 2100000, guid: 5b98aecc528a24446a2458b2b5a9240a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.061
+    second: {fileID: 2100000, guid: af0f833ddb72746a680a1192b7f75ea3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.062
+    second: {fileID: 2100000, guid: 67e1d60166f6b45b2a06d48ef69fca7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.063
+    second: {fileID: 2100000, guid: c1d933d734d6e455bbb46b1f2a115af9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.064
+    second: {fileID: 2100000, guid: c70d23144e8924a978c88cf528cc99b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.065
+    second: {fileID: 2100000, guid: 68546cf372ad244ddbdc20a0cecc1733, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.066
+    second: {fileID: 2100000, guid: cc08f0d16547a477c8bfee367e473c18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.067
+    second: {fileID: 2100000, guid: 93f1e48ec1f5540e98d4a24737e5f846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.068
+    second: {fileID: 2100000, guid: cf41a24430c09440496b4036dc68b7ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.069
+    second: {fileID: 2100000, guid: 4b6beb90927c54f59a7f496d6d7c8d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.070
+    second: {fileID: 2100000, guid: 8a729e232999b48618dd47f6348579b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.071
+    second: {fileID: 2100000, guid: 2a4141d8445a04930a48075ca10db5ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.072
+    second: {fileID: 2100000, guid: c6edf3c55a8ce49dfb25d9beca38e0cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.073
+    second: {fileID: 2100000, guid: 655b3330936764c93ae7c2901fd53353, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.074
+    second: {fileID: 2100000, guid: 29cfcb70e9dc64b9381ff9af91151ba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.075
+    second: {fileID: 2100000, guid: 93f89a104f37549bd99932ab60261f9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.076
+    second: {fileID: 2100000, guid: 4577571a950364be9a2f4d41b781cdd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.077
+    second: {fileID: 2100000, guid: b177ba17843f348e2858a1934403e756, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.078
+    second: {fileID: 2100000, guid: 1aa981a15835d4fb1bc2306b5cb0b70d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.079
+    second: {fileID: 2100000, guid: 65851e13617e54348b630f8b42674e77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.080
+    second: {fileID: 2100000, guid: 4803eb7d4da844274a89631920e3bb66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.081
+    second: {fileID: 2100000, guid: d39d335277a30484388b6f749e42e9e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.082
+    second: {fileID: 2100000, guid: 0516f7f3e4eba4d7bbc359cacc6cc267, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.083
+    second: {fileID: 2100000, guid: e2b8a1cce8b814eacb117bd44db7a5ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.084
+    second: {fileID: 2100000, guid: 028619cfee591486ea6e12518bcab983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.085
+    second: {fileID: 2100000, guid: f5f27638ac7e94219ba3650b6c223011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.086
+    second: {fileID: 2100000, guid: cbe6c3015524143f1bb2c969592559a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.087
+    second: {fileID: 2100000, guid: 108d00daccf8c44108f7b48562f490f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.088
+    second: {fileID: 2100000, guid: 437fa3364dd4647a89f38a7aba01519b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.089
+    second: {fileID: 2100000, guid: f5790a89014954ce494ee9033c7bf971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.090
+    second: {fileID: 2100000, guid: bb356d88909a446389df6e9632c1bce8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.091
+    second: {fileID: 2100000, guid: c1e7212f53d3a45e282d9debc7507fc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.092
+    second: {fileID: 2100000, guid: ebb3f55dc2c644ebb91ae814401aa94d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.093
+    second: {fileID: 2100000, guid: f855270cc23224e4d8a5b4095e45088c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.094
+    second: {fileID: 2100000, guid: e785a1cde594b46c88651ccd0ade14ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.095
+    second: {fileID: 2100000, guid: 7d924f363957e46a3b9b0cd666c763a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.096
+    second: {fileID: 2100000, guid: de65dc5ad56a147a5a0a7e2854f9630d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.097
+    second: {fileID: 2100000, guid: 337f75df6e918436aa90c4f755de7e5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.098
+    second: {fileID: 2100000, guid: 3c4f289f672e94ed7b7958d61d536291, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.099
+    second: {fileID: 2100000, guid: 9fde1b1ff41014936af5803f913e291b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.100
+    second: {fileID: 2100000, guid: 07d0b09b6a309477287f43e62d7c3ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.101
+    second: {fileID: 2100000, guid: f382291e8cd364f17a0af5b27c0d4a7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.102
+    second: {fileID: 2100000, guid: a86f0325a23ef4bceb0bc54e1698535d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.103
+    second: {fileID: 2100000, guid: 9b792ffceb3364463a58a6072d455782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.104
+    second: {fileID: 2100000, guid: 94335d90b5b134f048cf8e0b2ba8218b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.105
+    second: {fileID: 2100000, guid: cb338bf71ef864da6a07989589ebbfa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.106
+    second: {fileID: 2100000, guid: f16be938608c74dd5821c93a2127aa97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.107
+    second: {fileID: 2100000, guid: bcebef5d015f04a118591bd086df7f85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.108
+    second: {fileID: 2100000, guid: 9a80d72e802ed43349ec0b24bc2ec9ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.109
+    second: {fileID: 2100000, guid: 158ca9243052645989ee53dc68d46174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.110
+    second: {fileID: 2100000, guid: dc6a594dd19eb45dfa13b2dbea49c9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.111
+    second: {fileID: 2100000, guid: 53e1f4e7e4fc54db0aaa4810c0490367, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.112
+    second: {fileID: 2100000, guid: 35e60a9c9cf0b448da8e5925eb59711d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.113
+    second: {fileID: 2100000, guid: 0004acfa1069f40a4a823be2e915b222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.114
+    second: {fileID: 2100000, guid: 966a9be5e8f65477984a515cd55696ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.115
+    second: {fileID: 2100000, guid: 9b4c4555955684a6d8eb7329d6cca299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.116
+    second: {fileID: 2100000, guid: 2a84294529d124a3da27caf1d1fb40fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.117
+    second: {fileID: 2100000, guid: d01d7612e10dd44008f476c13eab37b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.118
+    second: {fileID: 2100000, guid: 9d6ced2a1b95a4e15aac9882527d630a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.119
+    second: {fileID: 2100000, guid: c8a97451acc0547a399af74ef0c3c05a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.120
+    second: {fileID: 2100000, guid: 87b3f17905fde43fbaca3202b7fe393c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.121
+    second: {fileID: 2100000, guid: f5d68b0ef953140e39cc1bd50a4e5b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.122
+    second: {fileID: 2100000, guid: 12c116508fca144f8a6e45a1853bce42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.123
+    second: {fileID: 2100000, guid: 9a64fe745a5664ea9b749b782d7a6987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.124
+    second: {fileID: 2100000, guid: 55088b91fe3a24e0093ba7bc32c6743d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.125
+    second: {fileID: 2100000, guid: a51d4850eb5fb49d88c21d8c17c46437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.126
+    second: {fileID: 2100000, guid: a6a85e14dd9df4b7da2953bea4145ed7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.127
+    second: {fileID: 2100000, guid: 662c9ac2190934be487c129ec06b2dab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.128
+    second: {fileID: 2100000, guid: 95c61a7f3bc464598927d289a97e74a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.129
+    second: {fileID: 2100000, guid: 11730f1176fd54122a7d8c4f40f4712d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.130
+    second: {fileID: 2100000, guid: be500c3f640844ecf9a236c24358693c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.131
+    second: {fileID: 2100000, guid: 57d4ea152e1a044ee8ff58cb867c5e25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.132
+    second: {fileID: 2100000, guid: 239d16d36f18a4d1d9827a98e1c4b922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.133
+    second: {fileID: 2100000, guid: ad2105a6834b14d79acce06d5d801f32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.134
+    second: {fileID: 2100000, guid: 9de51fd08c28646c697ada7ed2f48671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.135
+    second: {fileID: 2100000, guid: c5f2c897ad77645dcba85b8918593fcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.136
+    second: {fileID: 2100000, guid: b1b3eb81efe824d91ac57df7366ecd37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.137
+    second: {fileID: 2100000, guid: 440d3b4fa79fc4d5bb722753b29bc480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.138
+    second: {fileID: 2100000, guid: b2af87993b4c94fb6ad00431cb240a22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.139
+    second: {fileID: 2100000, guid: c28bd3c9c289a401797d6f910fd5fcaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.140
+    second: {fileID: 2100000, guid: 58ac7539f625c4139b78f30ff2223113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.141
+    second: {fileID: 2100000, guid: 789d6af07d6b14ea9b65f7da9c560ce5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.142
+    second: {fileID: 2100000, guid: a11b3fffd63514b98bd80276f417457f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.143
+    second: {fileID: 2100000, guid: b256cde61997d4344814fba7884ce572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.144
+    second: {fileID: 2100000, guid: fdca97e7c9fa0404d85de5489a7766fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.145
+    second: {fileID: 2100000, guid: 3a0b868f900cb490e96fc1cac0457a52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.146
+    second: {fileID: 2100000, guid: ca29b019de81248468a34e1225cceef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.147
+    second: {fileID: 2100000, guid: 3cebb39370d204e249aacd9aea36e3b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.148
+    second: {fileID: 2100000, guid: 948d278f1baea41b29520029767413da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.149
+    second: {fileID: 2100000, guid: 0402026501eb643cb97d2dbd15a4db6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.150
+    second: {fileID: 2100000, guid: aa895cacf2c9a4c539d602acff8d7450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.151
+    second: {fileID: 2100000, guid: ff77ea1d238194dc1bfbf38fba1cc8c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.152
+    second: {fileID: 2100000, guid: 1147dd16887a14970ac4f8098d338e19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.153
+    second: {fileID: 2100000, guid: 3d0e994af01924e659b601004d4d58a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.154
+    second: {fileID: 2100000, guid: 50adcf442da8b4c0990bf3c343470431, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.155
+    second: {fileID: 2100000, guid: 8ff0185c4e0ea47239d147e11c0d9282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.156
+    second: {fileID: 2100000, guid: f0da5de44fb4e403a911adbb959e6b3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.157
+    second: {fileID: 2100000, guid: 25c78048eca24462e9e4f04a053cbe62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.158
+    second: {fileID: 2100000, guid: 4b065c9c855d4479f969b0671ec57920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.159
+    second: {fileID: 2100000, guid: d993427a644aa47baae0e1ce202e5a7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.160
+    second: {fileID: 2100000, guid: 7a59baf3195b54642ae64db24c6614b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.161
+    second: {fileID: 2100000, guid: d3e0e36295e6a421a95f7935b7d0c00b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.162
+    second: {fileID: 2100000, guid: d27c3c6d14a9f44899900a7406c55483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.163
+    second: {fileID: 2100000, guid: 01524023267a348f0bcf006e793c9f6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.164
+    second: {fileID: 2100000, guid: 4eba98c30a9064ee78fe443f6322c28d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.165
+    second: {fileID: 2100000, guid: a567d97f38aa643dd8539fac552d910c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.166
+    second: {fileID: 2100000, guid: 7bb9dc31dea654b3f82ca8d8682d709a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.167
+    second: {fileID: 2100000, guid: 23543b08b366742b38d0ff2f440dc659, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.168
+    second: {fileID: 2100000, guid: a462237bb34674e47bf2ce85518b80a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.169
+    second: {fileID: 2100000, guid: 47f8e59fdcb3d4f2f8a0f3a50d03590b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.170
+    second: {fileID: 2100000, guid: 13212a1687df049ee9b8b1cd6496ba0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.171
+    second: {fileID: 2100000, guid: 11e3f7e0957b94d7f8db757b3b268eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.172
+    second: {fileID: 2100000, guid: 7fa586802ca1545088daa290362cd126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.173
+    second: {fileID: 2100000, guid: c84b61a519e6241cfacbd58023bbf6f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.174
+    second: {fileID: 2100000, guid: 967dd3986d1b044edbaadb716f81a3d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.175
+    second: {fileID: 2100000, guid: a768571313a7f417cb8eb785d8ef8f97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.176
+    second: {fileID: 2100000, guid: b8412451193d44f4892a1a5e705fd5f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.177
+    second: {fileID: 2100000, guid: 666d667b905b148d69a7bae7accf408a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.178
+    second: {fileID: 2100000, guid: 77941e36ae9c144bea433eebae36fb93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.179
+    second: {fileID: 2100000, guid: a2e1f9ade1a814b53a4bdd4fdb30adba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.180
+    second: {fileID: 2100000, guid: 3175957947615425b9bba2d6eebcf81c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.181
+    second: {fileID: 2100000, guid: 384c8f0e5d00d484a841054a8566811e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.182
+    second: {fileID: 2100000, guid: 5005205e5ec414ad58cde059dba47e3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.183
+    second: {fileID: 2100000, guid: 9f519c2d9a2d24bf7b9b4cb2b2ae23bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.184
+    second: {fileID: 2100000, guid: 9c9bb59eb3a7a45b380e8d715d12d403, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.185
+    second: {fileID: 2100000, guid: bcdd5147bd3df4722b46a66aab7a97b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.186
+    second: {fileID: 2100000, guid: 2a0e14b5b3d9e48bf8b969948e62d4af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.187
+    second: {fileID: 2100000, guid: ecbec0e4231bd4fca9a691f5cf4c6a6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.188
+    second: {fileID: 2100000, guid: 3d4bdf6f29b4643e28abc007390c14f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.189
+    second: {fileID: 2100000, guid: 1f05adfc9ba4746909a6dc05b9583319, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.190
+    second: {fileID: 2100000, guid: 08cce75ccfe0248ef9f3749e8b44f6aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.191
+    second: {fileID: 2100000, guid: fa47f363d620e4387a5209d26ac31b66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.192
+    second: {fileID: 2100000, guid: e9b5ea15ff54b4b4689e90566cf5c99d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.193
+    second: {fileID: 2100000, guid: 9aeb359d813bd4ba0a998bf8d9671d70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.194
+    second: {fileID: 2100000, guid: 2bfeabb01dabd4cd19c3b72d4ad726ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.195
+    second: {fileID: 2100000, guid: a7332fb28ba8c49cda69b34fb890ab47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.196
+    second: {fileID: 2100000, guid: c15dd3e5c836d41f3a34bf62c3e8fcdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.197
+    second: {fileID: 2100000, guid: 55bd06b6d38764690b7189a9a896c11c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.198
+    second: {fileID: 2100000, guid: 41647d2eb488647e8911e20971b0f6f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.199
+    second: {fileID: 2100000, guid: 561d079d7066c4e4b886474ef6320ae1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.200
+    second: {fileID: 2100000, guid: 143165f51dcc0413ea31d436c42aac1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.201
+    second: {fileID: 2100000, guid: d99544177807446ce9cafb9e1384626e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.202
+    second: {fileID: 2100000, guid: 9c7a9eb4cea934e1883ffd46528f938f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.203
+    second: {fileID: 2100000, guid: 73890f49be5dc407b9e9f73c6baf28c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.204
+    second: {fileID: 2100000, guid: 27fafba3df0c6442390afb7669f2b251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.205
+    second: {fileID: 2100000, guid: d13e1a634e0fb4cc4b5978ae26f22892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.206
+    second: {fileID: 2100000, guid: fe887507fabbb4550ad1c1963451e38b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.207
+    second: {fileID: 2100000, guid: 947239a7aad1644e198e45530a85cc01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.208
+    second: {fileID: 2100000, guid: 9d66b39ec78ed469abcb85d77a4b9540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.209
+    second: {fileID: 2100000, guid: dfa74a2c1ea244f9f8e5afaae27ca06c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.210
+    second: {fileID: 2100000, guid: 3f3ede8a9feb34981b3f70356fdf4d27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.211
+    second: {fileID: 2100000, guid: 2b437178158d14477a2470ed8393ebd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.212
+    second: {fileID: 2100000, guid: f8b3fe1748201467dbe634ec543f5c05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.213
+    second: {fileID: 2100000, guid: 8635273ab2b554516a3a5da595408d56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.214
+    second: {fileID: 2100000, guid: b14f4da43d93a4a1dab03fe88bf10b2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.215
+    second: {fileID: 2100000, guid: fbfc19146f24b4cd99adee488fe0aa2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.216
+    second: {fileID: 2100000, guid: aa75421fce46a469d92b9eab19605f2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.217
+    second: {fileID: 2100000, guid: 5000cfa58e3d84fa58038baff8a28d3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.218
+    second: {fileID: 2100000, guid: f709b7985c58c4a2fa9a0781b8fdaf36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.219
+    second: {fileID: 2100000, guid: 3d79d3e33492e4cc0a494a7b3f0320b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.220
+    second: {fileID: 2100000, guid: bc1aecdc879d4485196720fc765d3b84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.221
+    second: {fileID: 2100000, guid: 1e20e49795c554402a6c920d74e65c62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.222
+    second: {fileID: 2100000, guid: f6799357598da4fcdb4bf69d64492b8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.223
+    second: {fileID: 2100000, guid: 9f0040c77342a479b97c86743dc6fb8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.224
+    second: {fileID: 2100000, guid: 1dff3d2738ae846a4a7318ccf4b846ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.225
+    second: {fileID: 2100000, guid: f84a0c5c964c14fa383bb9df4333c975, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.226
+    second: {fileID: 2100000, guid: 98b59bcb355ce4632996a7e76df66caf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.227
+    second: {fileID: 2100000, guid: e70ba45d27747434b980e1c89e36646f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.228
+    second: {fileID: 2100000, guid: 03c004b6df6754b678bfde228325723c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.229
+    second: {fileID: 2100000, guid: f69d49c04e7be4b4085285ef637cfcda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.230
+    second: {fileID: 2100000, guid: 989f548fc7fc14785abb809cfb0e1484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.231
+    second: {fileID: 2100000, guid: 5b1ee7b893e3a4020995229887e1f497, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.232
+    second: {fileID: 2100000, guid: 8e1fb710e9df0410784321642ff1e1a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.233
+    second: {fileID: 2100000, guid: eed9cb9845cb14e0fbed7fb966cdd68e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.234
+    second: {fileID: 2100000, guid: 26eeffd076ca143bead25b14dde77d59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.235
+    second: {fileID: 2100000, guid: 0c5d559b455f24657abb84b0e5727ec7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.236
+    second: {fileID: 2100000, guid: 512c8766c979f41eaa9579df16401cc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.237
+    second: {fileID: 2100000, guid: 1880aa186d7e44ee7824d10051d328d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.238
+    second: {fileID: 2100000, guid: f9f35379ac74f4dd48df9a05f054e5a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.239
+    second: {fileID: 2100000, guid: 884229496fef94207b24e22889583f79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.240
+    second: {fileID: 2100000, guid: 8a4b46cbab6864495aec62789235fbcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.241
+    second: {fileID: 2100000, guid: e7a5b71443cdb4c5cb9601123d52eb37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.242
+    second: {fileID: 2100000, guid: 0900ad9e4a48441d3a4576d16e897a69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.243
+    second: {fileID: 2100000, guid: 714ccdf9a94b44f8a94f50334abe2e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.244
+    second: {fileID: 2100000, guid: cb163a1bbed3b4fca952244b9842c920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.245
+    second: {fileID: 2100000, guid: 985477243b55a45c89ac4ff31cbfd257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.246
+    second: {fileID: 2100000, guid: 93b9bf2223c6049febd3ecfa4432a3af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.247
+    second: {fileID: 2100000, guid: 81e1270c3ab99418cb2ebfb42e4ba29b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.248
+    second: {fileID: 2100000, guid: 1288cc0dc695c42d3a3bd9094f1235d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.249
+    second: {fileID: 2100000, guid: e39d6236ac65c4fbe9b4656324cd5f0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.250
+    second: {fileID: 2100000, guid: 6c55ebd422940470bac3af041374a878, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.251
+    second: {fileID: 2100000, guid: 1822e7628611f4982b35d74b41921893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.252
+    second: {fileID: 2100000, guid: ebbf78834cc8b4101a291725a2ef66fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.253
+    second: {fileID: 2100000, guid: 97c3a191c91124791956657a5977b8d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.254
+    second: {fileID: 2100000, guid: 3f70d3df6dcc54c6ea038d10493a284c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.255
+    second: {fileID: 2100000, guid: 5f4f8c0aa75304ec9bfc3316da14a681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.256
+    second: {fileID: 2100000, guid: 188dd2ad922d4445480d2095a068934b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.257
+    second: {fileID: 2100000, guid: 5c1e0c5f6882e433992ca16b91e30ae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.258
+    second: {fileID: 2100000, guid: f5e13191eac8748f59fc1abfb6e707db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.259
+    second: {fileID: 2100000, guid: 98aed3dc187044231b7a74c928122bc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.260
+    second: {fileID: 2100000, guid: 28d611868803f45c18fa15c635639801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.261
+    second: {fileID: 2100000, guid: e69b8a011a6cd4c9eb685e7106912b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.262
+    second: {fileID: 2100000, guid: 60b697261e68a495380f832e3693e9af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.263
+    second: {fileID: 2100000, guid: 6124ed6491b1c4a249a03e2d60f3bed8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.264
+    second: {fileID: 2100000, guid: 7874a3479fbfe45aa9346aa8b9059f52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.265
+    second: {fileID: 2100000, guid: b14daa25b99aa4116829b0ac155b353b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.266
+    second: {fileID: 2100000, guid: 81e967e158fe04417b3357f8e48aae9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.267
+    second: {fileID: 2100000, guid: 8c6d9c49378934978acfb641b9099b99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.268
+    second: {fileID: 2100000, guid: 52fbe8a9ade0a4be085977d3818b4a18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.269
+    second: {fileID: 2100000, guid: c98f2732dabb04e88a55e71926c91682, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.270
+    second: {fileID: 2100000, guid: 12d832c9865e742d6ade199b63c55312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.271
+    second: {fileID: 2100000, guid: ddbfbdb1f208c4de39814a4c7052448b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.272
+    second: {fileID: 2100000, guid: 680275358b24e4e87ac8c7087e82debc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.273
+    second: {fileID: 2100000, guid: a04ed91f1456a485f9cc8bb7b0547184, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.274
+    second: {fileID: 2100000, guid: fe863cf50c050438585d0069d898baac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.275
+    second: {fileID: 2100000, guid: 645bd8021b3ba4326b76510114d297a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.276
+    second: {fileID: 2100000, guid: 264f2dc957e164b3682dc439603c2859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.277
+    second: {fileID: 2100000, guid: f7880f651cfe642b59f9396c9cee5986, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.278
+    second: {fileID: 2100000, guid: 1ce11b97c731e42d9b561c0d6eee7162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.279
+    second: {fileID: 2100000, guid: 5dc3985c568304b12a33d72d2fbef652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.280
+    second: {fileID: 2100000, guid: afd118b1be431456f8fe0e8e6276620f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.281
+    second: {fileID: 2100000, guid: 688bd487d51e349e19c4d75f9f9cac27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.282
+    second: {fileID: 2100000, guid: c0937eaa0037046df8af9e0227787b07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.283
+    second: {fileID: 2100000, guid: 21096f657f6cd44419824eb3cefb24cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.284
+    second: {fileID: 2100000, guid: d8ef9003986294f59a39442c77c08742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.285
+    second: {fileID: 2100000, guid: 15ee69d5bb1ab44678e4861878a3e39f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.286
+    second: {fileID: 2100000, guid: 6be832d926e7f427a8164ff3d48830c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.287
+    second: {fileID: 2100000, guid: 241a167da7f7c4949b5483e57f12eeae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.288
+    second: {fileID: 2100000, guid: b72a956c848ad4c35a4e39fdaf87a7d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.289
+    second: {fileID: 2100000, guid: 7cadbb162c2a64c2d9ab64909deab0ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.290
+    second: {fileID: 2100000, guid: 6e2fef884bae44607beab59091804579, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.291
+    second: {fileID: 2100000, guid: 8c2707b92b6d444d79fd6da3536354a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.292
+    second: {fileID: 2100000, guid: a39a267bf34a34a499f7561cdcf6ce18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.293
+    second: {fileID: 2100000, guid: f0d0ef44baea14397a2192793992502d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.294
+    second: {fileID: 2100000, guid: d5ceda845bd464eceb84e8965284584c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.295
+    second: {fileID: 2100000, guid: 85128d26d487842278f8a7416fa29145, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.296
+    second: {fileID: 2100000, guid: fb640d8e082004141b40fecc6939b8f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.297
+    second: {fileID: 2100000, guid: c9fb12ae80f70470295b46012bddd57f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.298
+    second: {fileID: 2100000, guid: e3f3517800e3948c0b72fde99550c908, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.299
+    second: {fileID: 2100000, guid: c4aa19c9f4a2b4d448c049ae6ba789c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.300
+    second: {fileID: 2100000, guid: 13a4a0891bdf646de833afed1d0debab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.301
+    second: {fileID: 2100000, guid: 17a6add876422490092a1e214970c142, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.302
+    second: {fileID: 2100000, guid: c82e2bdda97734f2db41de7639379642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.303
+    second: {fileID: 2100000, guid: 96008d0354b56400faa452b895ea35e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.304
+    second: {fileID: 2100000, guid: e6dde2c90ba334c57bec6ffb2d626da2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.305
+    second: {fileID: 2100000, guid: 57ed817eb16464eb58bee34db7aafe83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.306
+    second: {fileID: 2100000, guid: 64176c82b4e794c97ae73be5567dfc3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.307
+    second: {fileID: 2100000, guid: 33e0440358af846288d88020fb28332b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.308
+    second: {fileID: 2100000, guid: 044566945c7684ab7913dcc1e14d67f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.309
+    second: {fileID: 2100000, guid: 0238533457d4a4e6685597a88c9dd931, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.310
+    second: {fileID: 2100000, guid: 0bb7a7cd1b570467f8a2b26f833f57bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.311
+    second: {fileID: 2100000, guid: 0392bea505859418185576fed68c37bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.312
+    second: {fileID: 2100000, guid: ce47ca3731b1b4a3eaac0492f4989863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.313
+    second: {fileID: 2100000, guid: 2c67bffcb8bc745fa9dba834b4715eb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.314
+    second: {fileID: 2100000, guid: a4214224b425d464680ff3013252faaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.315
+    second: {fileID: 2100000, guid: 76d17327e953d472fb6d31d502b64fef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.316
+    second: {fileID: 2100000, guid: 404dad43af6a048e4bcd5a2583212431, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.317
+    second: {fileID: 2100000, guid: f5b6e3f0c38f3467cb772878c082ed29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.318
+    second: {fileID: 2100000, guid: 3338bd288ad814990b0d2d59e680ed1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.319
+    second: {fileID: 2100000, guid: 5e16177149e1a4267a7aa8acdd1f50b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.320
+    second: {fileID: 2100000, guid: 1e19ddc8ed59b4a3793731a79ac92ff0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.321
+    second: {fileID: 2100000, guid: d19060be7ee0a4cd896cdb8d68a1d219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.322
+    second: {fileID: 2100000, guid: c9d64d73929bf490eaf77909c7b14d38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.323
+    second: {fileID: 2100000, guid: 0187ad2f2e4544d219f593eaacb04ec3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.324
+    second: {fileID: 2100000, guid: f4a698918128646ed9068d8fe7be38c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.325
+    second: {fileID: 2100000, guid: 690d44e8838cd4e049f1e65cbd7e55db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.326
+    second: {fileID: 2100000, guid: d761e3ac8cb4243f88c7f772df3c8b94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.327
+    second: {fileID: 2100000, guid: 3363f013f07724de381e46175236134b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.328
+    second: {fileID: 2100000, guid: 1301624f586c84e5e984e1a0e77cf03c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.329
+    second: {fileID: 2100000, guid: 3627ed0fe5fa14fee9e886660be1b3f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.330
+    second: {fileID: 2100000, guid: 9fb857b3168d84900aa5c5946c4ea6a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.331
+    second: {fileID: 2100000, guid: bc45188d7d2884de9a8c20888abd49fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.332
+    second: {fileID: 2100000, guid: 2a7bf9dacd7f846118b9e497edaa40f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.333
+    second: {fileID: 2100000, guid: 8aa5ae70c086d430abe69e28115aa754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.334
+    second: {fileID: 2100000, guid: db4c7425cbb3a40e1b488c7ac7992323, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.335
+    second: {fileID: 2100000, guid: 83dc281f0ae6449ba98b77debedf06b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.336
+    second: {fileID: 2100000, guid: 97c984cf82dce478db847e60828697f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.337
+    second: {fileID: 2100000, guid: 3418d2acd15944424b4624193c80d5aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.338
+    second: {fileID: 2100000, guid: b7039ebb72185476a8b0117546afb57c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.339
+    second: {fileID: 2100000, guid: 4ad202fe07cfa4174b59bc835dee74b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.340
+    second: {fileID: 2100000, guid: b0694bcd17b374a2bb2c70ef14047038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.341
+    second: {fileID: 2100000, guid: a4a61783f1e3941a5bcb19a93841ec38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.342
+    second: {fileID: 2100000, guid: 5f6eb19b9ea734de1b9dc2c4d0033c19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.343
+    second: {fileID: 2100000, guid: c755acfe080344e47a916251c07e7f1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.344
+    second: {fileID: 2100000, guid: e7142b4a13b4649b6b1716fbdee60936, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.345
+    second: {fileID: 2100000, guid: 99a4d63c6f91546c18ac36fe6bf78735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.346
+    second: {fileID: 2100000, guid: eed14d2ab06464001b9b3e8d32975a2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.347
+    second: {fileID: 2100000, guid: 86e10099c57214c2d928ff75f2769044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.348
+    second: {fileID: 2100000, guid: 16d4b1449fa24474fa4a0788f0848317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.349
+    second: {fileID: 2100000, guid: 7028477335e7f4c41a7759e54bd14a44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.350
+    second: {fileID: 2100000, guid: d42c494a1fa8b4b5cb71b1c62da0420a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.351
+    second: {fileID: 2100000, guid: 66c411710ab4b44299ea56ee67027c0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.352
+    second: {fileID: 2100000, guid: d0b3586ca029843a7a146b229f8c7ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.353
+    second: {fileID: 2100000, guid: ee71152ecb0af4d878e8ae005d0b37e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.354
+    second: {fileID: 2100000, guid: 8732b39d70e5c4643aba15b7012bfb12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.355
+    second: {fileID: 2100000, guid: f8efe1df0c27e40e7981e36a7744dfd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.356
+    second: {fileID: 2100000, guid: 1eb007a3a3757425bab59fa00358ef50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.357
+    second: {fileID: 2100000, guid: a5ec1a2e9b0b64592b902faa75248104, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.358
+    second: {fileID: 2100000, guid: 90f3c4b80beb14299bb9dfce83ab8ac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.359
+    second: {fileID: 2100000, guid: d5a397368e3f540c88403080b92506fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.360
+    second: {fileID: 2100000, guid: 078e35c8954424333a6e2ef68ed47005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.361
+    second: {fileID: 2100000, guid: 2156207c5e2e042ee93b15b45b8d3eba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.362
+    second: {fileID: 2100000, guid: 675c8098782ec486093fc37ebf6efcb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.363
+    second: {fileID: 2100000, guid: 3f4612fe9ad034021a32eafe77a3728d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.364
+    second: {fileID: 2100000, guid: 7145cc610b1db4836b185febf1b8c015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.365
+    second: {fileID: 2100000, guid: 141aaaf0ee9e6471ba4b3708b4b43d2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.366
+    second: {fileID: 2100000, guid: b6244f2ec9baa4e75ad9d3fc0eff31ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.367
+    second: {fileID: 2100000, guid: 254d73be9ca7543249995adf159c2d9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.368
+    second: {fileID: 2100000, guid: 5884745516bb14c74bb4d0443483ab36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.369
+    second: {fileID: 2100000, guid: 2e58c56f3bd1348609ccef5c30a28519, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.370
+    second: {fileID: 2100000, guid: a5402bd5fab884376a60693ed4fbac92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.371
+    second: {fileID: 2100000, guid: 96d01332dc8604496bd99049ee862445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.372
+    second: {fileID: 2100000, guid: 174b67927dac6455cbc777003613ec9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.373
+    second: {fileID: 2100000, guid: c875689ba79ed4aa581859042b9bd813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.374
+    second: {fileID: 2100000, guid: a11cdff9b248840c287530f61e94842a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.375
+    second: {fileID: 2100000, guid: d6ca21dc2663e430a88065e5460d1dd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.376
+    second: {fileID: 2100000, guid: fc0becb97b2164f4f8dcf6ac4a5e6995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.377
+    second: {fileID: 2100000, guid: 3ffc34a6353ba453eaac6facd03cedaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.378
+    second: {fileID: 2100000, guid: 1c5458b26f01142ed986774431ff89b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.379
+    second: {fileID: 2100000, guid: 6feeb5bcb108741aaadad45303a89fa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.380
+    second: {fileID: 2100000, guid: 6c0b70eb4c3774a5f8c4f7c12fe3e1f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.381
+    second: {fileID: 2100000, guid: d2ecf04ad33ac49d998c6bed106e3358, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.382
+    second: {fileID: 2100000, guid: 7570a6b149aea4589aee5c8f128c421e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.383
+    second: {fileID: 2100000, guid: f72e68ab8c2dd4decbe62a95ed139c9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.384
+    second: {fileID: 2100000, guid: 70506a78c3a074856b9db29f20b55853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.385
+    second: {fileID: 2100000, guid: 5bb97f1524ebe44459c7098b77858341, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.386
+    second: {fileID: 2100000, guid: 73267ab75145d4bdc9ce686e1bba6645, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.387
+    second: {fileID: 2100000, guid: 81bd2b477524647fcafb2286ffd6bd5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.388
+    second: {fileID: 2100000, guid: a9cb4cf92bbe74c3a8c908209a07143a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 0
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

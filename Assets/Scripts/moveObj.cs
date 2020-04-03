@@ -11,6 +11,8 @@ public class moveObj : MonoBehaviour
     public GameObject intrWalls;
     public GameObject intrWalls2;
     public GameObject intrWalls3;
+    public GameObject Bloom;
+    public GameObject opacity;
 
     private Kino.AnalogGlitch analogGlitch;
     private Kvant.Lattice lattice;
@@ -27,7 +29,7 @@ public class moveObj : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.A))
         {
-            transform.Rotate(Vector3.up * 20 * Time.deltaTime, Space.Self);
+            transform.Rotate(Vector3.up * 360 * Time.deltaTime, Space.Self);
             //countVar = Vector3.up * 20 * Time.deltaTime;
             
         }
@@ -44,5 +46,7 @@ public class moveObj : MonoBehaviour
         intrWalls2.GetComponent<Kvant.Lattice>().noiseElevation = transform.rotation.y * 30;
         intrWalls3.GetComponent<Kvant.Lattice>().noiseElevation = transform.rotation.y * 30;
 
+        //Bloom.GetComponent<Kino.Bloom>().intensity = transform.rotation.y * 5;
+        //opacity.GetComponent<Kino.Ramp>().opacity = transform.rotation.y * 5;
     }
 }
